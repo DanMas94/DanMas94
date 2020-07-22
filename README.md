@@ -1,4 +1,4 @@
-### Welcome! 👋
+### ✨ Welcome! 👋✨
 
 - 🔭 I’m currently working on a personal Website
 - 🌱 I’m currently learning React
