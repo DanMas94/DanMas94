@@ -1,8 +1,5 @@
 ### ✨ Welcome! 👋✨
 
-- 🔭 I’m currently working on a personal Website
-- 🌱 I’m currently learning React
-
 <!--
 **DanMas94/DanMas94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
